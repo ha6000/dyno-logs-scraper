@@ -4,7 +4,7 @@
 _If you want a moduler version please create a issue_
 
 ## Prerequisites
-* node v12.x.x (test for this version)
+* node v12.x.x (tested for this version)
 
 ## Setup
 Clone the repository and install all the modules.
