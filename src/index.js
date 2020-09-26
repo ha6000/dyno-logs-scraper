@@ -50,7 +50,8 @@ const loadingBar = new cliProgress.SingleBar();
 				mod: log.mod,
 				reason: log.reason,
 				message: log.message,
-				createdAt: new Date(log.createdAt)		
+				action: log.action
+				createdAt: new Date(log.createdAt)
 			};
 		}));
 	}
