@@ -28,7 +28,7 @@ To run the program run
 ```
 node src
 # or
-pnpm run run
+npm run run
 ```
 
 ## Config
